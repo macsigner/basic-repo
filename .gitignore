@@ -1,3 +1,6 @@
 .idea
 .DS_Store
 __MACOSX
+
+# Generated folders
+/dist
